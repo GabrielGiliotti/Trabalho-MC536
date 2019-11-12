@@ -1,0 +1,19 @@
+feature,definition,source
+zipCode,US Census Zip Code Tabulation Area (ZCTA),US Census
+countyCode,2-digit State FIPS + 3-digit county FIPS,
+studyCount,Number of cancer clinical trails (all cancers),https://clinicaltrials.gov/ct2/results?term=&recr=&type=&rslt=&age_v=&gndr=&cond=cancer&intr=&titles=&outc=&spons=&lead=&id=&state1=&cntry1=NA%3AUS&state2=&cntry2=&state3=&cntry3=&locn=&rcv_s=01%2F01%2F2010&rcv_e=06%2F01%2F2016&lup_s=01%2F01%2F2010&lup_e=06%2F01%2F2016    (* county-level derived by sum of number of trials per zip code ** zip codes tied to multiple counties assigned to one according to majority of population) 
+State,,
+PovertyEst,Total number of people below poverty line,US Census 2014 estimate. https://www.census.gov/did/www/saipe/data/statecounty/data/2014.html 
+PovertyPercent,Percent of population below poverty line,US Census 2014 estimate. https://www.census.gov/did/www/saipe/data/statecounty/data/2014.html 
+medIncome,Median household income by county,US Census 2014 estimate. https://www.census.gov/did/www/saipe/data/statecounty/data/2014.html  
+Name,County name,
+popEst2015,Estimated population by county 2015,https://www.census.gov/popest/data/counties/totals/2015/index.html 
+County ,,
+incidenceRate,"Cancer (all cancers) age-adjusted incidence per 100,000","http://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=51&cancer=071&race=00&sex=0&age=001&type=incd#results "
+avgAnnCount,2009-2013 mean incidences per county,"http://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=51&cancer=071&race=00&sex=0&age=001&type=incd#results "
+recentTrend,incidence recent trend,"http://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=51&cancer=071&race=00&sex=0&age=001&type=incd#results "
+fiveYearTrend,incidence five year trend,"http://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=51&cancer=071&race=00&sex=0&age=001&type=incd#results "
+countyName,,
+deathRate,"deaths from cancer per  100,000 per county","https://statecancerprofiles.cancer.gov/cgi-bin/deathrates/deathrates.pl?99&001&00&0&001&0&1&1&1#results"
+avgDeathsPerYear,average number of deaths per county per year (2009-2013),"https://statecancerprofiles.cancer.gov/cgi-bin/deathrates/deathrates.pl?99&001&00&0&001&0&1&1&1#results"
+recTrend,cancer mortality recent trend,"https://statecancerprofiles.cancer.gov/cgi-bin/deathrates/deathrates.pl?99&001&00&0&001&0&1&1&1#results"
