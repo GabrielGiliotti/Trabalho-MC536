@@ -1,0 +1,18 @@
+﻿FK_proteinAtlas,survivalAnalysis_dataSource,survivalAnalysis_isPrognostic,survivalAnalysis_prognosticType,survivalAnalysis_pValue,survivalAnalysis_source,tissue,tissue_organ
+1,TCGA,false,unfavourable,0.041200000000000000,HPA,Breast cancer,Female tissues
+1,TCGA,false,favourable,0.027500000000000000,HPA,Cervical cancer,Female tissues
+1,TCGA,false,favourable,0.001910000000000000,HPA,Colorectal cancer,Gastrointestinal tract
+1,TCGA,false,unfavourable,0.004080000000000000,HPA,Endometrial cancer,Female tissues
+1,TCGA,false,unfavourable,0.278000000000000000,HPA,Glioma,Brain
+1,TCGA,false,unfavourable,0.139000000000000000,HPA,Head and neck cancer,Gastrointestinal tract
+1,TCGA,true,unfavourable,1.54000000000E-7,HPA,Liver cancer,Liver & gallbladder
+1,TCGA,true,unfavourable,0.000338000000000000,HPA,Lung cancer,Lung
+1,TCGA,false,unfavourable,0.014300000000000000,HPA,Melanoma,Skin
+1,TCGA,false,favourable,0.016300000000000000,HPA,Ovarian cancer,Female tissues
+1,TCGA,false,unfavourable,0.002490000000000000,HPA,Pancreatic cancer,Pancreas
+1,TCGA,false,unfavourable,0.140000000000000000,HPA,Prostate cancer,Male tissues
+1,TCGA,true,unfavourable,1.11E-16,HPA,Renal cancer,Kidney & urinary bladder
+1,TCGA,false,favourable,0.244000000000000000,HPA,Stomach cancer,Gastrointestinal tract
+1,TCGA,false,unfavourable,0.373000000000000000,HPA,Testis cancer,Male tissues
+1,TCGA,false,favourable,0.144000000000000000,HPA,Thyroid cancer,Endocrine tissues
+1,TCGA,false,unfavourable,0.005150000000000000,HPA,Urothelial cancer,Kidney & urinary bladder

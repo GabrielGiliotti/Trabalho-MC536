@@ -1,0 +1,12 @@
+﻿PK_rnaExpression,FK_proteinAtlas,assayType,rnaDistribution,rnaDistribution_description,rnaSpecificity_description,rnaSpecificity_specificity,rnaSpecificity_tissue,rnaSpecificity_tissue_ontologyTerms,rnaSpecificity_tissue_organ,source,technology
+1,1,consensusTissue,Detected in all,n=all,At least four-fold higher mRNA levels in a particular tissue as compared to average levels in all tissues,Tissue enhanced,lymphoid tissue,UBERON:0002465,Bone marrow & lymphoid tissues,HPA,RNAseq
+2,1,tissue,,,,,,,,HPA,RNAseq
+3,1,humanBrainRegional,Detected in all,n=all,NX >= 1 in at least one region but not elevated in any region,Low region specificity,,,,HPA,RNAseq
+4,1,humanBrain,,,,,,,,HPA,RNAseq
+5,1,mouseBrainRegional,Detected in single,n=1,NX >= 1 in at least one region but not elevated in any region,Low region specificity,,,,HPA,RNAseq
+6,1,mouseBrain,,,,,,,,HPA,RNAseq
+7,1,pigBrainRegional,Detected in all,n=all,NX >= 1 in at least one region but not elevated in any region,Low region specificity,,,,HPA,RNAseq
+8,1,pigBrain,,,,,,,,HPA,RNAseq
+9,1,cellLine,Detected in many,n>33% and n<all,NX >= 1 in at least one cell line but not elevated in any cell line,Low cell line specificity,,,,HPA,RNAseq
+10,1,blood,Detected in all,n=all,NX >= 1 in at least one cell type but not elevated in any cell type,Low cell type specificity,,,,HPA,RNAseq
+11,1,bloodLineage,Detected in all,n=all,NX >= 1 in at least one cell type but not elevated in any cell type,Low lineage specificity,,,,HPA,RNAseq

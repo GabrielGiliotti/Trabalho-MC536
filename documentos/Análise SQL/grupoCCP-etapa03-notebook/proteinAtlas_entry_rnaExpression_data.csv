@@ -1,0 +1,203 @@
+﻿PK_proteinAtlas_entry_rnaExpression_data,FK_rnaExpression,bloodCell,bloodCell_lineage,cellLine,cellLine_cellosaurusID,cellLine_organ,tissue,tissue_ontologyTerms,tissue_organ,tissue_region
+1,1,,,,,,Adipose tissue,UBERON:0001013,Adipose & soft tissue,
+2,1,,,,,,Adrenal gland,UBERON:0002369,Endocrine tissues,
+3,1,,,,,,Amygdala,UBERON:0001876,Brain,
+4,1,,,,,,Appendix,UBERON:0013689,Bone marrow & lymphoid tissues,
+5,1,,,,,,B-cells,,Blood,
+6,1,,,,,,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",Brain,
+7,1,,,,,,Bone marrow,UBERON:0002371,Bone marrow & lymphoid tissues,
+8,1,,,,,,Breast,"UBERON:0000310,UBERON:0001911",Female tissues,
+9,1,,,,,,Cerebellum,UBERON:0002037,Brain,
+10,1,,,,,,Cerebral cortex,UBERON:0000956,Brain,
+11,1,,,,,,"Cervix, uterine",UBERON:0000002,Female tissues,
+12,1,,,,,,Colon,UBERON:0001155,Gastrointestinal tract,
+13,1,,,,,,Corpus callosum,UBERON:0002336,Brain,
+14,1,,,,,,Dendritic cells,,Blood,
+15,1,,,,,,Ductus deferens,UBERON:0001000,Male tissues,
+16,1,,,,,,Duodenum,UBERON:0002114,Gastrointestinal tract,
+17,1,,,,,,Endometrium 1,UBERON:0001295,Female tissues,
+18,1,,,,,,Epididymis,UBERON:0001301,Male tissues,
+19,1,,,,,,Esophagus,UBERON:0001043,Proximal digestive tract,
+20,1,,,,,,Fallopian tube,UBERON:0003889,Female tissues,
+21,1,,,,,,Gallbladder,UBERON:0002110,Liver & gallbladder,
+22,1,,,,,,Granulocytes,,Blood,
+23,1,,,,,,Heart muscle,"UBERON:0000948,UBERON:0001133",Muscle tissues,
+24,1,,,,,,Hippocampal formation,UBERON:0002421,Brain,
+25,1,,,,,,Hypothalamus,UBERON:0001898,Brain,
+26,1,,,,,,Kidney,UBERON:0002113,Kidney & urinary bladder,
+27,1,,,,,,Liver,UBERON:0002107,Liver & gallbladder,
+28,1,,,,,,Lung,UBERON:0002048,Lung,
+29,1,,,,,,Lymph node,UBERON:0000029,Bone marrow & lymphoid tissues,
+30,1,,,,,,Midbrain,UBERON:0001891,Brain,
+31,1,,,,,,Monocytes,,Blood,
+32,1,,,,,,NK-cells,,Blood,
+33,1,,,,,,Olfactory region,UBERON:0003112,Brain,
+34,1,,,,,,Ovary,UBERON:0000992,Female tissues,
+35,1,,,,,,Pancreas,UBERON:0001264,Pancreas,
+36,1,,,,,,Parathyroid gland,UBERON:0001132,Endocrine tissues,
+37,1,,,,,,Pituitary gland,UBERON:0000007,Endocrine tissues,
+38,1,,,,,,Placenta,UBERON:0001987,Female tissues,
+39,1,,,,,,Pons and medulla,"UBERON:0000988,UBERON:0001896",Brain,
+40,1,,,,,,Prostate,UBERON:0002367,Male tissues,
+41,1,,,,,,Rectum,UBERON:0001052,Gastrointestinal tract,
+42,1,,,,,,Retina,UBERON:0000966,Eye,
+43,1,,,,,,Salivary gland,UBERON:0001044,Proximal digestive tract,
+44,1,,,,,,Seminal vesicle,UBERON:0000998,Male tissues,
+45,1,,,,,,Skeletal muscle,UBERON:0001134,Muscle tissues,
+46,1,,,,,,Skin 1,"UBERON:0000014,UBERON:0001003",Skin,
+47,1,,,,,,Small intestine,UBERON:0002108,Gastrointestinal tract,
+48,1,,,,,,Smooth muscle,UBERON:0001135,Muscle tissues,
+49,1,,,,,,Spinal cord,UBERON:0002240,Brain,
+50,1,,,,,,Spleen,UBERON:0002106,Bone marrow & lymphoid tissues,
+51,1,,,,,,Stomach 1,UBERON:0000945,Gastrointestinal tract,
+52,1,,,,,,T-cells,,Blood,
+53,1,,,,,,Testis,UBERON:0000473,Male tissues,
+54,1,,,,,,Thalamus,UBERON:0001897,Brain,
+55,1,,,,,,Thymus,UBERON:0002370,Bone marrow & lymphoid tissues,
+56,1,,,,,,Thyroid gland,UBERON:0002046,Endocrine tissues,
+57,1,,,,,,Tongue,UBERON:0001723,Proximal digestive tract,
+58,1,,,,,,Tonsil,UBERON:0002372,Bone marrow & lymphoid tissues,
+59,1,,,,,,Total PBMC,,Blood,
+60,1,,,,,,Urinary bladder,UBERON:0001255,Kidney & urinary bladder,
+61,1,,,,,,Vagina,UBERON:0000996,Female tissues,
+62,2,,,,,,Adipose tissue,UBERON:0001013,Adipose & soft tissue,
+63,2,,,,,,Adrenal gland,UBERON:0002369,Endocrine tissues,
+64,2,,,,,,Appendix,UBERON:0013689,Bone marrow & lymphoid tissues,
+65,2,,,,,,Bone marrow,UBERON:0002371,Bone marrow & lymphoid tissues,
+66,2,,,,,,Breast,"UBERON:0000310,UBERON:0001911",Female tissues,
+67,2,,,,,,Cerebral cortex,UBERON:0000956,Brain,
+68,2,,,,,,"Cervix, uterine",UBERON:0000002,Female tissues,
+69,2,,,,,,Colon,UBERON:0001155,Gastrointestinal tract,
+70,2,,,,,,Duodenum,UBERON:0002114,Gastrointestinal tract,
+71,2,,,,,,Endometrium 1,UBERON:0001295,Female tissues,
+72,2,,,,,,Epididymis,UBERON:0001301,Male tissues,
+73,2,,,,,,Esophagus,UBERON:0001043,Proximal digestive tract,
+74,2,,,,,,Fallopian tube,UBERON:0003889,Female tissues,
+75,2,,,,,,Gallbladder,UBERON:0002110,Liver & gallbladder,
+76,2,,,,,,Heart muscle,"UBERON:0000948,UBERON:0001133",Muscle tissues,
+77,2,,,,,,Kidney,UBERON:0002113,Kidney & urinary bladder,
+78,2,,,,,,Liver,UBERON:0002107,Liver & gallbladder,
+79,2,,,,,,Lung,UBERON:0002048,Lung,
+80,2,,,,,,Lymph node,UBERON:0000029,Bone marrow & lymphoid tissues,
+81,2,,,,,,Ovary,UBERON:0000992,Female tissues,
+82,2,,,,,,Pancreas,UBERON:0001264,Pancreas,
+83,2,,,,,,Parathyroid gland,UBERON:0001132,Endocrine tissues,
+84,2,,,,,,Placenta,UBERON:0001987,Female tissues,
+85,2,,,,,,Prostate,UBERON:0002367,Male tissues,
+86,2,,,,,,Rectum,UBERON:0001052,Gastrointestinal tract,
+87,2,,,,,,Salivary gland,UBERON:0001044,Proximal digestive tract,
+88,2,,,,,,Seminal vesicle,UBERON:0000998,Male tissues,
+89,2,,,,,,Skeletal muscle,UBERON:0001134,Muscle tissues,
+90,2,,,,,,Skin 1,"UBERON:0000014,UBERON:0001003",Skin,
+91,2,,,,,,Small intestine,UBERON:0002108,Gastrointestinal tract,
+92,2,,,,,,Smooth muscle,UBERON:0001135,Muscle tissues,
+93,2,,,,,,Spleen,UBERON:0002106,Bone marrow & lymphoid tissues,
+94,2,,,,,,Stomach 1,UBERON:0000945,Gastrointestinal tract,
+95,2,,,,,,Testis,UBERON:0000473,Male tissues,
+96,2,,,,,,Thyroid gland,UBERON:0002046,Endocrine tissues,
+97,2,,,,,,Tonsil,UBERON:0002372,Bone marrow & lymphoid tissues,
+98,2,,,,,,Urinary bladder,UBERON:0001255,Kidney & urinary bladder,
+99,4,,,,,,Amygdala,UBERON:0001876,,AMY
+100,4,,,,,,Basal ganglia,"UBERON:0001873,UBERON:0001874,UBERON:0001875,UBERON:0001882",,BG
+101,4,,,,,,Cerebellum,UBERON:0002037,,CB
+102,4,,,,,,Cerebral cortex,UBERON:0000956,,CTX
+103,4,,,,,,Hippocampal formation,UBERON:0002421,,HPF
+104,4,,,,,,Hypothalamus,UBERON:0001898,,HY
+105,4,,,,,,Midbrain,UBERON:0001891,,MB
+106,4,,,,,,Olfactory region,UBERON:0003112,,OLF
+107,4,,,,,,Pons and medulla,"UBERON:0000988,UBERON:0001896",,PM
+108,4,,,,,,Thalamus,UBERON:0001897,,TH
+109,6,,,,,,Amygdala,UBERON:0001876,,AMY
+110,6,,,,,,Caudate putamen,UBERON:0005383,,BG
+111,6,,,,,,Cerebellum,UBERON:0002037,,CB
+112,6,,,,,,Corpus callosum,UBERON:0002336,,CC
+113,6,,,,,,Entorhinal cortex,UBERON:0002728,,HPF
+114,6,,,,,,Frontal cortex,UBERON:0001870,,CTX
+115,6,,,,,,Hippocampal formation,UBERON:0002421,,HPF
+116,6,,,,,,Hypothalamus,UBERON:0001898,,HY
+117,6,,,,,,Midbrain,UBERON:0001891,,MB
+118,6,,,,,,Occipital cortex,UBERON:0016540,,CTX
+119,6,,,,,,Olfactory bulb,,,OLF
+120,6,,,,,,Pituitary gland,UBERON:0000007,,PIT
+121,6,,,,,,Pons and medulla,"UBERON:0000988,UBERON:0001896",,PM
+122,6,,,,,,Retina,UBERON:0000966,,RET
+123,6,,,,,,Retrosplenial and cingulate cortex,"UBERON:0003027,UBERON:0013531",,CTX
+124,6,,,,,,Septum,UBERON:0004714,,BG
+125,6,,,,,,Somatosensory cortex,UBERON:0008930,,CTX
+126,6,,,,,,Thalamus,UBERON:0001897,,TH
+127,6,,,,,,Ventral forebrain,UBERON:0002778,,BG
+128,8,,,,,,Amygdala,UBERON:0001876,,AMY
+129,8,,,,,,Caudate,UBERON:0001873,,BG
+130,8,,,,,,Cerebellum,UBERON:0002037,,CB
+131,8,,,,,,Cingulate cortex,UBERON:0003027,,CTX
+132,8,,,,,,Corpus callosum,UBERON:0002336,,CC
+133,8,,,,,,Dorsal hippocampus,,,HPF
+134,8,,,,,,Dorsal spinal cord,,,SC
+135,8,,,,,,Entorhinal cortex,UBERON:0002728,,HPF
+136,8,,,,,,Hypothalamus,UBERON:0001898,,HY
+137,8,,,,,,Insular cortex,UBERON:0034891,,CTX
+138,8,,,,,,Medulla,,,PM
+139,8,,,,,,Midbrain,UBERON:0001891,,MB
+140,8,,,,,,Motor cortex,UBERON:0001384,,CTX
+141,8,,,,,,Occipital cortex,UBERON:0016540,,CTX
+142,8,,,,,,Olfactory bulb,,,OLF
+143,8,,,,,,Periaqueductal gray,UBERON:0003040,,MB
+144,8,,,,,,Pituitary gland,UBERON:0000007,,PIT
+145,8,,,,,,Pons,UBERON:0000988,,PM
+146,8,,,,,,Prefrontal cortex,UBERON:0000451,,CTX
+147,8,,,,,,Putamen,UBERON:0001874,,BG
+148,8,,,,,,Retina,UBERON:0000966,,RET
+149,8,,,,,,Retrosplenial cortex,UBERON:0013531,,CTX
+150,8,,,,,,Septum,UBERON:0004714,,BG
+151,8,,,,,,Somatosensory cortex,UBERON:0008930,,CTX
+152,8,,,,,,Subiculum,,,HPF
+153,8,,,,,,Substantia nigra,UBERON:0002038,,MB
+154,8,,,,,,Superior colliculi,UBERON:0001945,,MB
+155,8,,,,,,Temporal cortex,UBERON:0016538,,CTX
+156,8,,,,,,Thalamus,UBERON:0001897,,TH
+157,8,,,,,,Ventral hippocampus,,,HPF
+158,8,,,,,,Ventral pallidum,UBERON:0002778,,BG
+159,8,,,,,,Ventral spinal cord,,,SC
+160,9,,,A-431,CVCL_0037,Skin,,,,
+161,9,,,A549,CVCL_0023,Lung,,,,
+162,9,,,AF22,,Brain,,,,
+163,9,,,AN3-CA,CVCL_0028,"Breast, female reproductive system",,,,
+164,9,,,ASC diff,,Sarcoma,,,,
+165,9,,,ASC TERT1,CVCL_U602,Sarcoma,,,,
+166,9,,,BEWO,CVCL_0044,Miscellaneous,,,,
+167,9,,,BJ,CVCL_3653,Fibroblast,,,,
+168,9,,,BJ hTERT+,CVCL_6573,Fibroblast,,,,
+169,9,,,BJ hTERT+ SV40 Large T+,,Fibroblast,,,,
+170,9,,,BJ hTERT+ SV40 Large T+ RasG12V,,Fibroblast,,,,
+171,9,,,CACO-2,CVCL_0025,Abdominal,,,,
+172,9,,,CAPAN-2,CVCL_0026,Abdominal,,,,
+173,9,,,Daudi,CVCL_0008,Lymphoid,,,,
+174,9,,,EFO-21,CVCL_0029,"Breast, female reproductive system",,,,
+175,9,,,FHDF/TERT166,CVCL_GZ73,Fibroblast,,,,
+176,9,,,HaCaT,CVCL_0038,Skin,,,,
+177,9,,,HAP1,CVCL_Y019,Myeloid,,,,
+178,9,,,HBEC3-KT,CVCL_X491,Lung,,,,
+179,9,,,HBF TERT88,CVCL_9Q52,Fibroblast,,,,
+180,9,,,HDLM-2,CVCL_0009,Lymphoid,,,,
+181,9,,,HEK 293,CVCL_0045,"Renal, urinary, male reproductive system",,,,
+182,9,,,HEL,CVCL_0001,Myeloid,,,,
+183,9,,,HeLa,CVCL_0030,"Breast, female reproductive system",,,,
+184,9,,,Hep G2,CVCL_0027,Abdominal,,,,
+185,9,,,HHSteC,,Miscellaneous,,,,
+186,9,,,HL-60,CVCL_0002,Myeloid,,,,
+187,9,,,HMC-1,CVCL_0003,Myeloid,,,,
+188,9,,,HSkMC,,Miscellaneous,,,,
+189,9,,,HTCEpi,CVCL_AQ44,Miscellaneous,,,,
+190,9,,,HTEC/SVTERT24-B,CVCL_JM27,Endothelial,,,,
+191,9,,,HTERT-HME1,CVCL_3383,"Breast, female reproductive system",,,,
+192,9,,,HUVEC TERT2,CVCL_9Q53,Endothelial,,,,
+193,10,Basophil,Granulocytes,,,,,,,
+194,10,Classical monocyte,Monocytes,,,,,,,
+195,10,Eosinophil,Granulocytes,,,,,,,
+196,10,GdTCR,T-cells,,,,,,,
+197,10,Intermediate monocyte,Monocytes,,,,,,,
+198,10,MAIT T-cell,T-cells,,,,,,,
+199,10,Memory B-cell,B-cells,,,,,,,
+200,10,Memory CD4 T-cell,T-cells,,,,,,,
+201,10,Memory CD8 T-cell,T-cells,,,,,,,
+202,10,Myeloid DC,Dendritic cells,,,,,,,
