@@ -1,9 +1,0 @@
-SQL
-	- melhor definição do problema proposto para análise - OK
-	- cinco queries de análise
-	- readme explicando correções, estratégias seguidas etc
-XQuery
-	- cinco queries
-	- pq elas são melhores que SQL
-Neo4J
-	
